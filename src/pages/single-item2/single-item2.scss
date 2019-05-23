@@ -1,0 +1,41 @@
+page-single-item2 {
+  .scroll-content {
+    background-color: $white;
+  }
+  .background_image_header {
+    background-image: url('../assets/img/all-01.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+
+
+  .background_image_sub_header {
+    background-image: url('../assets/img/go.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+
+
+  .headline {
+    color: $white;
+  }
+  .item__content {
+    margin: 0;
+  }
+  p {
+    margin: 0;
+    size: 16;
+  }
+
+  #map {
+    height: 50%;
+  }
+
+  #card{
+    background-color: grey;
+    height: 55%;
+  }
+
+
+
+}
